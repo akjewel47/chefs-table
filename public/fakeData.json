@@ -1,0 +1,98 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Chicken Teriyaki",
+    "image": "https://i.ibb.co.com/5h5nHmD/istockphoto-546790814-1024x1024.jpg",
+    "description": "A delicious teriyaki chicken dish with a savory-sweet glaze.",
+    "ingredients": [
+      "550 g chicken breast",
+      "120 ml soy sauce",
+      "200 g basil leaf",
+      "400 g mushroom",
+      "50 g sugar",
+      "30 ml mirin"
+    ],
+    "preparing_time": "30 min",
+    "calories": "450 calories"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Beef Stew",
+    "image": "https://i.ibb.co.com/19xPXPP/istockphoto-935955668-1024x1024.jpg",
+    "description": "A hearty beef stew slow-cooked to perfection.",
+    "ingredients": [
+      "700 g beef chunks",
+      "250 g potatoes",
+      "200 g carrots",
+      "150 g onions",
+      "100 ml beef broth",
+      "3 cloves garlic"
+    ],
+    "preparing_time": "2 hours",
+    "calories": "600 calories"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Spaghetti Carbonara",
+    "image": "https://i.ibb.co.com/rpgdLFH/istockphoto-1138234649-1024x1024.jpg",
+    "description": "Creamy pasta with crispy pancetta and a rich sauce.",
+    "ingredients": [
+      "300 g spaghetti",
+      "150 g pancetta",
+      "2 large eggs",
+      "100 g parmesan cheese",
+      "2 cloves garlic",
+      "50 g black pepper"
+    ],
+    "preparing_time": "20 min",
+    "calories": "500 calories"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Vegan Buddha Bowl",
+    "image": "https://i.ibb.co.com/Bgp76P1/istockphoto-1048647660-1024x1024.jpg",
+    "description": "A healthy and vibrant vegan bowl with quinoa and veggies.",
+    "ingredients": [
+      "200 g quinoa",
+      "100 g chickpeas",
+      "150 g avocado",
+      "200 g kale",
+      "50 g carrots",
+      "50 ml tahini dressing"
+    ],
+    "preparing_time": "25 min",
+    "calories": "350 calories"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Shrimp Alfredo",
+    "image": "https://i.ibb.co.com/02bJDT8/istockphoto-1316673342-1024x1024.jpg",
+    "description": "A creamy pasta dish with succulent shrimp.",
+    "ingredients": [
+      "400 g fettuccine",
+      "300 g shrimp",
+      "150 ml heavy cream",
+      "100 g parmesan cheese",
+      "3 cloves garlic",
+      "50 g butter"
+    ],
+    "preparing_time": "20 min",
+    "calories": "600 calories"
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Chocolate Chip Cookies",
+    "image": "https://i.ibb.co.com/1KYSrsx/istockphoto-1276539979-1024x1024.jpg",
+    "description": "Classic chewy chocolate chip cookies.",
+    "ingredients": [
+      "300 g flour",
+      "200 g butter",
+      "150 g sugar",
+      "100 g chocolate chips",
+      "2 large eggs",
+      "1 tsp vanilla extract"
+    ],
+    "preparing_time": "15 min",
+    "calories": "220 calories"
+  }
+]
